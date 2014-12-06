@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "PANoramicView": {
+            "applicationId": "RnsDdfZemEz0bGQoqMQE4JyyfSLcdJmqTreY5QD9", 
+            "masterKey": "jdkxR7uZTv6iDXEZQwJtte1gstZaA6BXqiHCX6JQ"
+        }, 
+        "_default": {
+            "link": "PANoramicView"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
